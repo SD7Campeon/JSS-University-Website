@@ -1,0 +1,257 @@
+@media only screen and (max-width:767px) {
+  .companyimg {
+    width: 50%;
+  }
+  .ftco-navbar-light .navbar-brand {
+    color: #fff;
+    width: 72%;
+  }
+  .logo-data {
+    display: none;
+  }
+  .ftco-navbar-light {
+    height: unset;
+  }
+  .ftco-navbar-light .navbar-nav>.nav-item>.nav-link {
+    font-size: 14px;
+  }
+  .ftco-navbar-light.scrolled {
+    padding-top: 12px;
+    padding-bottom: 13px;
+  }
+  .mobileclogo {
+    /*width: 65%;*/
+    display: block;
+    width: 65%;
+    margin: 0 auto;
+  }
+  .heading-sec {
+    padding: 40px 0px;
+  }
+  .heading-sec h2 {
+    font-size: 20px;
+    padding-top: 0px;
+  }
+  .heade-tag {
+    font-size: 20px;
+  }
+  .banner {
+    top: 0px;
+    padding: 0px;
+  }
+  .media-part h1 {
+    font-size: 19px;
+  }
+  .circular-details .blog-entry {
+    height: 300px;
+  }
+  .facility-details .sort {
+    display: block;
+  }
+  .sort h3 {
+    font-size: 20px;
+    font-weight: 300;
+  }
+  .left-logos {
+    /* display: none; */
+  }
+  .clogo {
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+  }
+  .wrap img {
+    margin-right: 79px;
+  }
+  .ftco-navbar-light .navbar-nav>.nav-item>.nav-link {
+    padding-left: 0px;
+  }
+  .banner-image {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+  }
+  .slide .info {
+    width: 94%;
+    top: 100px;
+    left: 10px;
+    right: 20px;
+  }
+  .about-details .py-5 {
+    padding-top: 1rem !important;
+  }
+  .courses-details .card {
+    height: auto;
+  }
+  .facility-details .sort {
+    padding: 30px 10px;
+  }
+  .img-content {
+    /* margin-left: 0px; */
+  }
+  .design-by {
+    float: left;
+  }
+  .scrolltoppart #myBtn {
+    bottom: 17px;
+    right: 20px;
+  }
+  .scrolltoppart .fa-angle-down {
+    font-size: 30px;
+  }
+  .dropdown-submenu .dropdown-menus {
+    top: 100%;
+    left: 100%;
+    position: unset;
+    width: 100%;
+    background-color: #fff;
+  }
+  .dropdown-menus li a {
+    color: var(--navbg-color);
+  }
+  .logo-part {
+    flex-direction: column;
+  }
+  .top-righticon .last-logos {
+    margin: auto;
+    display: block;
+  }
+  .top-righticon img {
+    float: revert;
+  }
+  .left-part img {
+    width: 151px;
+  }
+  .clogo {
+    padding-left: 0px;
+  }
+  .wrap img {
+    margin-right: auto;
+  }
+  .main-topic {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .header-top .list-inline li {
+    padding: 1px 2px;
+  }
+  .middle-part {
+    width: 100%;
+  }
+  .middle-part h3 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+  }
+  .content-line {
+    padding-left: 0px;
+  }
+  .vtu-data {
+    font-size: 10px;
+  }
+  .left-logoicon {
+    width: 39%;
+    margin: auto;
+    display: block;
+  }
+  .header-line h6 {
+    padding: 0px;
+    float: none;
+  }
+  .slider-animate .slide .info {
+    width: 238px;
+  }
+  .header-top .list-inline a {
+    font-size: 9px;
+  }
+  .courses-details{
+    padding: 85px 0px;
+  }
+  .buttons-container button{
+    padding: 0px 2px;
+  }
+  .bg-img{
+    height: 204px;
+  }
+  .slider-animate .slide .info h1{
+    font-size: 16px;
+  }
+  .slider-animate .slide .info p{
+    font-size: 11px;
+  }
+  .slider-animate .slider{
+    height: 208px;
+  }
+  .top-righticon{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+  }
+  .class-room-mba .col-md-4{
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+  .custom-top1{
+    max-width: 1350px !important;
+  }
+  .middle-part h3 {
+    text-align: center;
+  }
+  .custom-header {
+    width: 1360px;
+  }
+  .header-line {
+    margin: 0px 0px 0px 33em;
+  }
+  .header-line h6 {
+    float: revert;
+    padding-right: 0px;
+  }
+  .custom-menu{
+    left: -160px !important;
+  }
+}
+
+@media screen and (min-width: 1600px) and (max-width: 1920px) {
+  .container {
+    max-width: 1600px !important;
+  }
+}
+@media screen and (min-width: 2199px) and (max-width: 2560px){
+  .container {
+    max-width: 2030px !important;
+  }
+  .custom-top1{
+    max-width: 2561px !important;
+  }
+  .top-righticon .last-logos{
+    width: 22%;
+  }
+  .top-righticon img{
+    margin-left: 25px;
+  }
+  .logo-part{
+    justify-content: space-evenly;
+  }
+  .header-line h6{
+    padding-left: 11em;
+  }
+}
+@media screen and (min-width: 1922px) and (max-width: 2200){
+  .container {
+    max-width: 1700ox !important;
+  }
+}
+@media screen and (min-width: 560px) and (max-width: 767px){
+  .top-righticon .last-logos{
+    width: 100%;
+  }
+  .left-logoicon{
+    width: 14%;
+  }
+}
